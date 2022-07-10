@@ -7,7 +7,7 @@ load_dotenv()
 que = {}
 admins = {}
 
-API_ID = int(getenv("API_ID", "8334353"))
+API_ID = int(getenv("API_ID", "8334353")
 API_HASH = getenv("API_HASH", "4cf512e6f3274086dd6364a952b9a094")
 BOT_USERNAME = getenv("BOT_USERNAME", "FULL_MOJJ_MASTI_BOT")
 BOT_TOKEN = getenv("BOT_TOKEN", "5362313685:AAGemPJYpaht90eSsh5ssz_WN999jUXU-YU")
